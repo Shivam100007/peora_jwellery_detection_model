@@ -38,4 +38,4 @@ This repository contains a Deep Learning model built with TensorFlow and Keras t
 The model provides comprehensive evaluation metrics including:
 - **Accuracy/Loss Plots** for training visualization.
 - **Confusion Matrix** to identify misclassifications.
-- **Classification Report** (Precision, Recall, F1-Score).
+- **Classification Report** (Precision, Recall, F1-Score)..
